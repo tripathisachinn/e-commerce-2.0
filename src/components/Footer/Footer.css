@@ -1,0 +1,31 @@
+.cont-sec{
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+.copy-right{
+    display: flex;
+    justify-content: space-between;
+}
+button{
+    border-radius: 0px 20px 20px 0px;
+    box-shadow: none;
+    border: 0px;
+    padding: 2px 2px 2px 2px;
+}
+input{
+    border-radius: 20px 0px 0px 20px;
+    border: 0px;
+    padding: 2px 2px 2px 2px;
+}
+.social-icons{
+    justify-content: space-around;
+    margin-left: -30px;
+}
